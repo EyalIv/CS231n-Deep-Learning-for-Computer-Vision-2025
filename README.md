@@ -1,5 +1,12 @@
 # **CS231n: Deep Learning for Computer Vision 2025**
-![The Egg Dance by Pieter Brueghel the Younger](images/the-egg-dance.jpg)
+
+<p align="center">
+  <img src="images/the-egg-dance.jpg" alt="The Egg Dance by Pieter Brueghel the Younger" width="800"/>
+  <br/>
+  The Egg Dance (ca. 1620), Pieter Brueghel the Younger
+</p>
+
+
 ### **My Personal Portfolio**
 
 My portfolio is a personal journey into the world of Deep Learning. I focus on bridging the gap between AI and the AEC industry. This showcases my unique background. The repo has my assignments, code solutions, and notes.
