@@ -1,4 +1,4 @@
-# **CS231n: Deep Learning for Computer Vision**
+# **CS231n: Deep Learning for Computer Vision 2025**
 
 ### **My Personal Portfolio**
 
