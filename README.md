@@ -52,7 +52,8 @@ I am seeking roles as:
 ### **Connect**
 
 Feel free to connect with me.
-https://www.linkedin.com/in/eyal-ivri/
+[linkedin](https://www.linkedin.com/in/eyal-ivri/).
+
 -----
 
 ### **License**
