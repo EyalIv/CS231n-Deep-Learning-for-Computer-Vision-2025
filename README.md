@@ -1,5 +1,5 @@
 # CS231n: Deep Learning for Computer Vision 2025
-## The "Invisible Classroom" of CS231n
+## The Invisible Classroom
 
 <p align="center">
   <img src="images/the-egg-dance.jpg" alt="The Egg Dance by Pieter Brueghel the Younger" width="800"/>
